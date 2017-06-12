@@ -3,7 +3,7 @@
 #include <stdlib.h>
 
 void fillMatrix(int** tab, int n){
-    int i,j,k = 1;
+    int i,j,k = 2;
     for(i = 0;i<n;i++)
         for(j = 0;j<n;j++)
             tab[i][j] = k++;

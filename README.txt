@@ -1,1 +1,1 @@
-Micha³ Urbaœ
+Michal Urbas

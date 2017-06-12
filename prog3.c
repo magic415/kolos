@@ -22,7 +22,7 @@ int main ()
 {
 
 int *tablica = NULL,i,a;
-    for(i=0;i<10;i++)
+    for(i=0;i<11;i++)
         {
         scanf("%d",&a);
         tablica = add(tablica,i,a);
@@ -30,8 +30,8 @@ int *tablica = NULL,i,a;
             break;
         }
 
-    for(i = 0;i<10;i++)
+    for(i = 0;i<11;i++)
         printf("%d ",tablica[i]);
-
+// aaa walne komentarz
 return 0;
 }
