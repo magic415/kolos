@@ -8,7 +8,7 @@ void fillMatrix(int** tab, int n){
         for(j = 0;j<n;j++)
             tab[i][j] = k++;
 }
-
+// branch
 void deleteMatrix(int*** ptab, int n){
     int i;
     for(i = 0;i<n;i++)

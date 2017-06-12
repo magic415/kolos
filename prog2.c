@@ -12,7 +12,7 @@ struct lista {
 
 
 struct element{
-
+// druga galaz
     struct lista Dane;
     struct element* Nast;
 
