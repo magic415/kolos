@@ -7,7 +7,7 @@ int * add(int* tab, int n, int new_elem)
     if(wsk==NULL){
         return NULL;
         }
-
+//
     if(tab!=NULL){
         for(i=0;i<n;i++)
             wsk[i] = tab[i];}
