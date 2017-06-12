@@ -15,7 +15,7 @@ int * add(int* tab, int n, int new_elem)
     wsk[n] = new_elem;
     free(tab);
     return wsk;
-
+//
 }
 
 int main ()
